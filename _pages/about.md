@@ -10,6 +10,10 @@ redirect_from:
 
 Greetings, I am Le Zhang, currently M.Sc at the [Mila - Quebec AI Institute](https://mila.quebec/en/person/le-zhang/).  Currently, I’m working with Prof. [Aishwarya Agrawal](https://www.iro.umontreal.ca/~agrawal/) in the domain of multimodal learning. Perviously, I obtained Bachelor degree from Fudan University. Besides, I conducted a summer research with Prof. Diyi Yang, and interned at Shanghai AI Lab with Dr. Siqi Sun.
 
+<a href="mailto:le.zhang@mila.quebec">Email to me</a>
+
+[Email to me](mailto:le.zhang@mila.quebec)
+
 # Reaserach Interests
 
 My research primarily centers around the domains of visual intelligence and vision-language learning. Presently, visual representations exhibit complexity and intermingling. Conversely, human perception apprehends the world by organizing objects or visual concepts as fundamental units, known as an object-centric approach. Moreover, humans tend to segment objects prior to recognizing their labels. Therefore, my current research endeavors involve **developing a novel visual modeling methodology that can autonomously segment objects and acquire object-centric representations in an unsupervised manner**. Subsequently, I aim to establish connections between this architecture and language to construct a robust model endowed with compositional understanding capabilities.
