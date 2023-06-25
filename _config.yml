@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Le Zhang / 张乐"
 title_separator          : "-"
 name                     : &name "Le Zhang"
-description              : &description "personal description"
+description              : &description "M.sc at Mila"
 url                      : https://lezhang7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lezhang7.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Le Zhang"
   avatar           : "profile.png"
-  bio              : "Greetings, I am Le Zhang, currently M.Sc at the Mila. My primary areas of scholarly inquiry encompass representation learning and the cross vision-language learning. The overarching aim of my research is to develop algorithms and systems that empower machines with the ability to intelligently perceive, comprehend, and interact with the world and its inhabitants. Currently, I’m working with Dr. Aishwarya Agrawal in the domain of multimodal learning. Perviously, I obtained Bachelor degree from Fudan University. Besides, I conducted a summer research with Prof. Diyi Yang, and interned at Shanghai AI Lab with Dr. Siqi Sun."
+  bio              : "dsa"
   location         : "Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NqbBXAsAAAAJ&hl=zh-CN"
-  email            : "le.zhang@mila.quebec"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
