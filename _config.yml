@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Le Zhang / 张乐"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Le Zhang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lezhang7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Le Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Greetings, I am Le Zhang, currently M.Sc at the Mila. My primary areas of scholarly inquiry encompass representation learning and the cross vision-language learning. The overarching aim of my research is to develop algorithms and systems that empower machines with the ability to intelligently perceive, comprehend, and interact with the world and its inhabitants. Currently, I’m working with Dr. Aishwarya Agrawal in the domain of multimodal learning. Perviously, I obtained Bachelor degree from Fudan University. Besides, I conducted a summer research with Prof. Diyi Yang, and interned at Shanghai AI Lab with Dr. Siqi Sun."
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=NqbBXAsAAAAJ&hl=zh-CN"
+  email            : "le.zhang@mila.quebec"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/lezhang7?tab=repositories"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/Le_Zhang7"
   vine             :
   weibo            :
   xing             :
