@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings, I am Le Zhang, currently M.Sc at the [Mila - Quebec AI Institute](https://mila.quebec/en/person/le-zhang/).  Currently, I’m working with Prof. [Aishwarya Agrawal](https://www.iro.umontreal.ca/~agrawal/) in the domain of multimodal learning. Perviously, I obtained Bachelor degree from Fudan University. Besides, I conducted a summer research with Prof. Diyi Yang, and interned at Shanghai AI Lab with Dr. Siqi Sun.
-
-<a href="mailto:le.zhang@mila.quebec">Email to me</a>
-
-[Email to me](mailto:le.zhang@mila.quebec)
+Greetings, I am Le Zhang, currently M.Sc at the [Mila - Quebec AI Institute](https://mila.quebec/en/person/le-zhang/).  Currently, I’m working with Prof. [Aishwarya Agrawal](https://www.iro.umontreal.ca/~agrawal/) in the domain of multimodal learning. Perviously, I obtained Bachelor degree from Fudan University. Besides, I worked with Prof Zhongyu Wei and I conducted a summer research with Prof. Diyi Yang, and interned at Shanghai AI Lab with Dr. Siqi Sun.
 
 # Reaserach Interests
 
@@ -20,7 +16,7 @@ My research primarily centers around the domains of visual intelligence and visi
 
 News and Updates
 ======
-- One [paper](https://arxiv.org/abs/2306.08832) has been selected as CVPR 2023 O-DRUM workshop highlight!
+- One [paper](https://arxiv.org/abs/2306.08832) on fine-grained understanding has been selected as CVPR 2023 [O-DRUM workshop](https://asu-apg.github.io/odrum/) highlight!
 - Start graduate study at Mila!
 - Interned at Shanghai AI Lab from 2022/02-2022/09
 - Two paper got accepted at NAACL 2022!
