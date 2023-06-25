@@ -22,17 +22,15 @@ News and Updates
 
 Papers
 ======
+[Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding](https://arxiv.org/abs/2306.08832). **Le Zhang**, Rabiul Awal, Aishwarya Agrawal. *arXiv preprint arXiv:2306.08832*
 
+[Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering ](https://arxiv.org/abs/2306.09996). Rabiul Awal, Le Zhang, Aishwarya Agrawal. *arXiv preprint arXiv:2306.09996*
 
-#### [Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding](https://arxiv.org/abs/2306.08832) [preprint]()
+[Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation](https://arxiv.org/abs/2306.01824). **Le Zhang**, Jiayang Chen, Tao Shen, Yu Li, Siqi Sun. *arXiv preprint arXiv:2306.01824*
 
-#### [Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering](https://arxiv.org/abs/2306.09996)
+[SUBS: Subtree Substitution for Compositional Semantic Parsing](https://arxiv.org/abs/2205.01538). Jingfeng Yang, **Le Zhang**, Diyi Yang. *NAACL 2022*
 
-#### [Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation](https://arxiv.org/abs/2306.01824) [L Zhang](https://scholar.google.com/citations?user=NqbBXAsAAAAJ&hl=zh-CN&oi=sra), J Chen, [T Shen](https://scholar.google.com/citations?user=8cprenoAAAAJ&hl=zh-CN&oi=sra), [Y Li](https://scholar.google.com/citations?user=8YHZx-AAAAAJ&hl=zh-CN&oi=sra), [S Sun](https://scholar.google.com/citations?user=2dyg3WgAAAAJ&hl=zh-CN&oi=sra) - arXiv preprint arXiv:2306.01824, 2023 - arxiv.org
-
-#### [SUBS: Subtree Substitution for Compositional Semantic Parsing](https://arxiv.org/abs/2205.01538)
-
-#### [TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding](https://arxiv.org/abs/2205.06153)
+[TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding](https://arxiv.org/abs/2205.06153). Le Zhang, Zichao Yang, Diyi Yang. *NAACL 2022*
 
 
 
