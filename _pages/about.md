@@ -22,13 +22,15 @@ News and Updates
 
 Papers
 ======
-#### [Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding](https://arxiv.org/abs/2306.08832) 
+
+
+#### [Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding](https://arxiv.org/abs/2306.08832) [preprint]()
 
 #### [Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering](https://arxiv.org/abs/2306.09996)
 
-#### [Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation](https://arxiv.org/abs/2306.01824)
+#### [Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation](https://arxiv.org/abs/2306.01824) [L Zhang](https://scholar.google.com/citations?user=NqbBXAsAAAAJ&hl=zh-CN&oi=sra), J Chen, [T Shen](https://scholar.google.com/citations?user=8cprenoAAAAJ&hl=zh-CN&oi=sra), [Y Li](https://scholar.google.com/citations?user=8YHZx-AAAAAJ&hl=zh-CN&oi=sra), [S Sun](https://scholar.google.com/citations?user=2dyg3WgAAAAJ&hl=zh-CN&oi=sra) - arXiv preprint arXiv:2306.01824, 2023 - arxiv.org
 
-#### ![exmf](https://s2.loli.net/2022/01/16/qGBThMefWFDz7I4.png)[SUBS: Subtree Substitution for Compositional Semantic Parsing](https://arxiv.org/abs/2205.01538)
+#### [SUBS: Subtree Substitution for Compositional Semantic Parsing](https://arxiv.org/abs/2205.01538)
 
 #### [TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding](https://arxiv.org/abs/2205.06153)
 
