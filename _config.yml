@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Le Zhang"
   avatar           : "profile.png"
-  bio              : "dsa"
-  location         : "Location"
+  bio              : "M.sc at Mila - Quebec AI Institute, focus on visual representation learning and multimodal learning." 
+  location         : "6666 Rue Saint-Urbain, Montréal, QC, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NqbBXAsAAAAJ&hl=zh-CN"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Le_Zhang7"
+  twitter          : "Le_Zhang7"
   vine             :
   weibo            :
   xing             :
