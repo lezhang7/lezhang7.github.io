@@ -26,9 +26,8 @@ Publications
 
 -  [Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding](https://arxiv.org/abs/2306.08832).
    **Le Zhang**, Rabiul Awal, Aishwarya Agrawal. *arXiv preprint arXiv:2306.08832*
-  [[*arxiv*](https://arxiv.org/abs/2306.08832)|[*code*](https://github.com/lezhang7/Enhance-FineGrained)]
-  <font color=red>*CVPR O-DRUM@2023 Outstamding paper*</font>
-
+  [[*arxiv*](https://arxiv.org/abs/2306.08832)|[*code*](https://github.com/lezhang7/Enhance-FineGrained)] <font color=red>*CVPR O-DRUM@2023 Outstamding paper*</font>
+  
 - [Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering ](https://arxiv.org/abs/2306.09996). 
   Rabiul Awal, **Le Zhang**, Aishwarya Agrawal. *arXiv preprint arXiv:2306.09996*
   [[*arxiv*](https://arxiv.org/abs/2306.09996)]
