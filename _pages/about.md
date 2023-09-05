@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings, I am Le Zhang, currently M.Sc at the [Mila - Quebec AI Institute](https://mila.quebec/en/person/le-zhang/).  Currently, I’m working with Prof. [Aishwarya Agrawal](https://www.iro.umontreal.ca/~agrawal/) in the domain of multimodal learning. Perviously, I obtained Bachelor degree from Fudan University. Besides, I worked with Prof Zhongyu Wei and I conducted a summer research with Prof. Diyi Yang, and interned at Shanghai AI Lab with Dr. Siqi Sun.
+Greetings, I am Le Zhang, a Ph.D student at the [Mila - Quebec AI Institute](https://mila.quebec/en/person/le-zhang/).  Currently, I’m working with Prof. [Aishwarya Agrawal](https://www.iro.umontreal.ca/~agrawal/) in the domain of vision-language learning. Perviously, I obtained Bachelor degree from Fudan University. Besides, I worked with Prof Zhongyu Wei and I conducted a summer research with Prof. Diyi Yang, and interned at Shanghai AI Lab with Dr. Siqi Sun.
 
 # Reaserach Interests
 
@@ -24,10 +24,14 @@ News and Updates
 Publications
 ======
 
--  [Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding](https://arxiv.org/abs/2306.08832).
-   **Le Zhang**, Rabiul Awal, Aishwarya Agrawal. *arXiv preprint arXiv:2306.08832*
-  [[*arxiv*](https://arxiv.org/abs/2306.08832)|[*code*](https://github.com/lezhang7/Enhance-FineGrained)] <font color=red>*CVPR O-DRUM@2023 Outstamding paper*</font>
+-  MoqaGPT : Zero-Shot Multi-modal Open-domain Question Answering with Large Language Model
+   
+  **Le Zhang**, Yihong Wu, Fengran Mo, Jian-Yun Nie, Aishwarya Agrawal. *EMNLP2023 under reviewer*
   
+- [Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding](https://arxiv.org/abs/2306.08832).
+  **Le Zhang**, Rabiul Awal, Aishwarya Agrawal. *arXiv preprint arXiv:2306.08832*
+  [[*arxiv*](https://arxiv.org/abs/2306.08832)|[*code*](https://github.com/lezhang7/Enhance-FineGrained)] <font color=red>*CVPR O-DRUM@2023 Highlight *</font>
+
 - [Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering ](https://arxiv.org/abs/2306.09996). 
   Rabiul Awal, **Le Zhang**, Aishwarya Agrawal. *arXiv preprint arXiv:2306.09996*
   [[*arxiv*](https://arxiv.org/abs/2306.09996)]
