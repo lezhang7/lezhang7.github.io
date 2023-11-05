@@ -29,28 +29,24 @@ Publications
    
   **Le Zhang**, Yihong Wu, Fengran Mo, Jian-Yun Nie, Aishwarya Agrawal. *EMNLP2023 Findings* [[*arxiv*](https://arxiv.org/abs/2310.13265)|[*code*](https://github.com/lezhang7/MOQAGPT)]
   
-- Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding.
-  **Le Zhang**, Rabiul Awal, Aishwarya Agrawal. *arXiv preprint arXiv:2306.08832*
-  [[*arxiv*](https://arxiv.org/abs/2306.08832)|[*code*](https://github.com/lezhang7/Enhance-FineGrained)] *CVPR O-DRUM@2023 workshop Highlight*
+- Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding
+  **Le Zhang**, Rabiul Awal, Aishwarya Agrawal
+  *CVPR O-DRUM@2023 workshop Highlight* [[*arxiv*](https://arxiv.org/abs/2306.08832)|[*code*](https://github.com/lezhang7/Enhance-FineGrained)] 
 
-- Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering . 
-  Rabiul Awal, **Le Zhang**, Aishwarya Agrawal. *arXiv preprint arXiv:2306.09996*
-  [[*arxiv*](https://arxiv.org/abs/2306.09996)]
-
+- Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering 
+  Rabiul Awal, **Le Zhang**, Aishwarya Agrawal. *arXiv preprint arXiv:2306.09996* [[*arxiv*](https://arxiv.org/abs/2306.09996)]
+  
 - Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation 
-  **Le Zhang**\*, Jiayang Chen\*, Tao Shen, Yu Li, Siqi Sun. *arXiv preprint arXiv:2306.01824*
-  [[*arxiv*](https://arxiv.org/abs/2306.01824)|[*code*](https://github.com/lezhang7/MSA-Augmentor)]
-
+  **Le Zhang**\*, Jiayang Chen\*, Tao Shen, Yu Li, Siqi Sun. *arXiv preprint arXiv:2306.01824* [[*arxiv*](https://arxiv.org/abs/2306.01824)|[*code*](https://github.com/lezhang7/MSA-Augmentor)]
+  
 - SUBS: Subtree Substitution for Compositional Semantic Parsing
-  Jingfeng Yang\*, **Le Zhang**\*, Diyi Yang. *NAACL 2022*
-  [[*arxiv*](https://arxiv.org/abs/2205.01538)|[*code*](https://github.com/SALT-NLP/SUBS)]
-
+  Jingfeng Yang\*, **Le Zhang**\*, Diyi Yang. *NAACL 2022* [[*arxiv*](https://arxiv.org/abs/2205.01538)|[*code*](https://github.com/SALT-NLP/SUBS)]
+  
 - TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding 
-  **Le Zhang**, Zichao Yang, Diyi Yang. *NAACL 2022*
-  [[*arxiv*](https://arxiv.org/abs/2205.06153)|[*code*](https://github.com/lezhang7/TreeMix)]
+  **Le Zhang**, Zichao Yang, Diyi Yang. *NAACL 2022* [[*arxiv*](https://arxiv.org/abs/2205.06153)|[*code*](https://github.com/lezhang7/TreeMix)]
 
 
 
 Services
 ------
-- Reviewer of ACL 2023, EMNLP 2023
+- Reviewer of ACL 2023, EMNLP 2023, CVPR2023
