@@ -16,6 +16,7 @@ My research primarily centers around the domains of visual intelligence and visi
 
 News and Updates
 ======
+- Our paper for zero-shot multimodal question answering got accepted into EMNLP2023 findings
 - One [paper](https://arxiv.org/abs/2306.08832) on fine-grained understanding has been selected as CVPR 2023 [O-DRUM workshop](https://asu-apg.github.io/odrum/) highlight!
 - Start graduate study at Mila!
 - Interned at Shanghai AI Lab from 2022/02-2022/09
@@ -26,25 +27,26 @@ Publications
 
 -  MoqaGPT : Zero-Shot Multi-modal Open-domain Question Answering with Large Language Model
    
-  **Le Zhang**, Yihong Wu, Fengran Mo, Jian-Yun Nie, Aishwarya Agrawal. *EMNLP2023 under reviewer*
+  **Le Zhang**, Yihong Wu, Fengran Mo, Jian-Yun Nie, Aishwarya Agrawal. *EMNLP2023 Findings* [[*arxiv*](https://arxiv.org/abs/2310.13265)|[*code*](https://github.com/lezhang7/MOQAGPT)]
   
-- [Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding](https://arxiv.org/abs/2306.08832).
+- Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding.
   **Le Zhang**, Rabiul Awal, Aishwarya Agrawal. *arXiv preprint arXiv:2306.08832*
-  [[*arxiv*](https://arxiv.org/abs/2306.08832)|[*code*](https://github.com/lezhang7/Enhance-FineGrained)] <font color=red>*CVPR O-DRUM@2023 Highlight *</font>
+  [[*arxiv*](https://arxiv.org/abs/2306.08832)|[*code*](https://github.com/lezhang7/Enhance-FineGrained)] *CVPR O-DRUM@2023 workshop Highlight*
 
-- [Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering ](https://arxiv.org/abs/2306.09996). 
+- Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering . 
   Rabiul Awal, **Le Zhang**, Aishwarya Agrawal. *arXiv preprint arXiv:2306.09996*
   [[*arxiv*](https://arxiv.org/abs/2306.09996)]
 
-- [Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation](https://arxiv.org/abs/2306.01824). 
+- Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation 
   **Le Zhang**\*, Jiayang Chen\*, Tao Shen, Yu Li, Siqi Sun. *arXiv preprint arXiv:2306.01824*
   [[*arxiv*](https://arxiv.org/abs/2306.01824)|[*code*](https://github.com/lezhang7/MSA-Augmentor)]
 
-- [SUBS: Subtree Substitution for Compositional Semantic Parsing](https://arxiv.org/abs/2205.01538). 
+- SUBS: Subtree Substitution for Compositional Semantic Parsing
   Jingfeng Yang\*, **Le Zhang**\*, Diyi Yang. *NAACL 2022*
   [[*arxiv*](https://arxiv.org/abs/2205.01538)|[*code*](https://github.com/SALT-NLP/SUBS)]
 
-- [TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding](https://arxiv.org/abs/2205.06153). **Le Zhang**, Zichao Yang, Diyi Yang. *NAACL 2022*
+- TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding 
+  **Le Zhang**, Zichao Yang, Diyi Yang. *NAACL 2022*
   [[*arxiv*](https://arxiv.org/abs/2205.06153)|[*code*](https://github.com/lezhang7/TreeMix)]
 
 
