@@ -25,8 +25,7 @@ News and Updates
 Publications
 ======
 
--  MoqaGPT : Zero-Shot Multi-modal Open-domain Question Answering with Large Language Model
-   
+-  MoqaGPT : Zero-Shot Multi-modal Open-domain Question Answering with Large Language Model 
   **Le Zhang**, Yihong Wu, Fengran Mo, Jian-Yun Nie, Aishwarya Agrawal. *EMNLP2023 Findings* [[*arxiv*](https://arxiv.org/abs/2310.13265)|[*code*](https://github.com/lezhang7/MOQAGPT)]
   
 - Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding
