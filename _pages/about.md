@@ -15,7 +15,7 @@ Greetings, I am Le Zhang, a Ph.D student at the [Mila - Quebec AI Institute](htt
 My research primarily centers around the domains of visual intelligence and vision-language learning. Presently, visual representations exhibit complexity and intermingling. Conversely, human perception apprehends the world by organizing objects or visual concepts as fundamental units, known as an object-centric approach. Moreover, humans tend to segment objects prior to recognizing their labels. Therefore, my current research endeavors involve **developing a novel visual modeling methodology that can autonomously segment objects and acquire object-centric representations in an unsupervised manner**. Subsequently, I aim to establish connections between this architecture and language to construct a robust model endowed with compositional understanding capabilities.
 
 # News and Updates
-======
+------
 
 - Our paper for zero-shot multimodal question answering got accepted into EMNLP2023 findings
 - One [paper](https://arxiv.org/abs/2306.08832) on fine-grained understanding has been selected as CVPR 2023 [O-DRUM workshop](https://asu-apg.github.io/odrum/) highlight!
@@ -24,8 +24,7 @@ My research primarily centers around the domains of visual intelligence and visi
 - Two paper got accepted at NAACL 2022!
 
 # Publications
-
-======
+------
 
 - MuGI: Enhancing Information Retrieval through Multi-Text Generation Intergration with Large Language Models
   **Le Zhang**, Qian Yang, Yihong Wu. *arXiv preprint arXiv:2401.06311* [[*arxiv*](https://arxiv.org/abs/2401.06311)|[*code*](https://github.com/lezhang7/Retrieval_MuGI)]
