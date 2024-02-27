@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Le Zhang / 张乐"
 title_separator          : "-"
 name                     : &name "Le Zhang"
-description              : &description "M.sc at Mila"
+description              : &description "Ph.D at Mila"
 url                      : https://lezhang7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lezhang7.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Le Zhang"
   avatar           : "profile.png"
-  bio              : "M.sc at Mila - Quebec AI Institute" 
+  bio              : "Ph.D @ Mila - Quebec AI Institute" 
   location         : "Montréal, QC"
   employer         :
   pubmed           : 
