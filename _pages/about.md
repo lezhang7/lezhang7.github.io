@@ -1,13 +1,13 @@
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-
   - /about/
   - /about.html
-
 ---
+
 
 Greetings, I am Le Zhang, a Ph.D student at the [Mila - Quebec AI Institute](https://mila.quebec/en/person/le-zhang/).  Currently, I’m working with Prof. [Aishwarya Agrawal](https://www.iro.umontreal.ca/~agrawal/) in the domain of vision-language learning. Perviously, I obtained Bachelor degree from Fudan University. Besides, I worked with Prof Zhongyu Wei and I conducted a summer research with Prof. Diyi Yang, and interned at Shanghai AI Lab with Dr. Siqi Sun.
 
