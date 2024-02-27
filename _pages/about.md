@@ -19,7 +19,7 @@ My research primarily centers around the domains of computer vision and multimod
 
 ------
 
-- <font color=red>**[Feb 2024]**</font>One paper on vision-language compositional understanding has been accepted to ***CVPR 2024***
+- <span style="color:red;">[Feb 2024]</span> One paper on vision-language compositional understanding has been accepted to ***CVPR 2024***
 - One paper for zero-shot multimodal question answering got accepted into ***EMNLP2023 findings***
 - Start graduate study at Mila!
 - Interned at Shanghai AI Lab from 2022/02-2022/09
