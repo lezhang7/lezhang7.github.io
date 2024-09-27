@@ -19,7 +19,7 @@ My research primarily centers around the domains of computer vision and multimod
 
 ------
 
-- [Sep 2024] Two papers got accepted at ***NeurIPS 2024***
+- [Sep 2024] Two papers got accepted at ***NeurIPS 2024***, one on MSA augmentation for protein structure prediction with language models and one on visual minimal-change understanding for vision-language models.
 - [Sep 2024] One paper on Information Retrieval with Large Language Model has been accepted to ***EMNLP 2024 findings***
 - [May 2024] One paper on Graph Convolution and Contrastive Learning has been accepted to ***KDD 2024***
 - [Feb 2024] One paper on vision-language compositional understanding has been accepted to ***CVPR 2024***
