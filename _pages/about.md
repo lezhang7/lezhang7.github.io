@@ -35,7 +35,7 @@ My research primarily centers around the domains of computer vision and multimod
   **Le Zhang**, <span style="color:gray;">Jiayang Chen, Tao Shen, Yu Li, Siqi Sun.</span>   
   *NeurIPS 2024* [[*arxiv*](https://arxiv.org/abs/2306.01824) | [*code*](https://github.com/lezhang7/MSA-Augmentor)]
 - **VisMin: Visual Minimal-Change Understanding**  
-  <span style="color:gray;">Rabiul Awal*</span>, <span style="color:gray;">Saba Ahmadi*</span>, **Le Zhang***, <span style="color:gray;">Aishwarya Agrawal</span>
+  <span style="color:gray;">Rabiul Awal*</span>, <span style="color:gray;">Saba Ahmadi*</span>, **Le Zhang***, <span style="color:gray;">Aishwarya Agrawal</span>  
   *NeurIPS 2024* [*project*](https://rabiul.me/vismin/)
 - **Exploring the Best Practices of Query Expansion with Large Language Models**  
   **Le Zhang**, <span style="color:gray;">Qian Yang, Yihong Wu.</span>   
