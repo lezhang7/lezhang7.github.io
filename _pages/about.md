@@ -35,7 +35,7 @@ My research primarily centers around the domains of computer vision and multimod
   **Le Zhang**, <span style="color:gray;">Jiayang Chen, Tao Shen, Yu Li, Siqi Sun.</span>   
   *NeurIPS 2024* [[*arxiv*](https://arxiv.org/abs/2306.01824) | [*code*](https://github.com/lezhang7/MSA-Augmentor)]
 - **VisMin: Visual Minimal-Change Understanding**  
-  <span style="color:gray;">Rabiul Awal*</span>, <span style="color:gray;">Saba Ahmadi*</span>, **Le Zhang***, <span style="color:gray;">Aishwarya Agrawal</span>  
+  <span style="color:gray;">Rabiul Awal*, Saba Ahmadi*</span>, **Le Zhang***, <span style="color:gray;">Aishwarya Agrawal</span>  
   *NeurIPS 2024* [*project*](https://rabiul.me/vismin/)
 - **Exploring the Best Practices of Query Expansion with Large Language Models**  
   **Le Zhang**, <span style="color:gray;">Qian Yang, Yihong Wu.</span>   
@@ -44,7 +44,7 @@ My research primarily centers around the domains of computer vision and multimod
   <span style="color:gray;">Yihong Wu</span>, **Le Zhang**, <span style="color:gray;">Fengran Mo, Tianyu Zhu, Weizhi Ma, Jian-Yun Nie</span>  
   *KDD 2024*
 - **Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Compositional Understanding**  
-  Le Zhang, <span style="color:gray;">Rabiul Awal, Aishwarya Agrawal</span>  
+  **Le Zhang**, <span style="color:gray;">Rabiul Awal, Aishwarya Agrawal</span>  
   *CVPR 2024* [[*arXiv*](https://arxiv.org/abs/2306.08832) | [*code*](https://github.com/lezhang7/Enhance-FineGrained)]
 - **MoqaGPT: Zero-Shot Multi-modal Open-domain Question Answering with Large Language Model**  
   **Le Zhang**, <span style="color:gray;">Yihong Wu, Fengran Mo, Jian-Yun Nie, Aishwarya Agrawal.</span>  
