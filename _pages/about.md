@@ -78,5 +78,5 @@ My research primarily centers around the domains of computer vision and multimod
 
 ------
 
-- Conference Reviewer: ***ACL 2023***, ***EMNLP 2023***, ***CVPR 2024***, ***ARR 2024 Feb, Apr, June***, ***ECCV 2024***,  ***Neurips 2024***
+- Conference Reviewer: ***ACL 2023***, ***EMNLP 2023***, ***CVPR 2024***, ***ARR 2024 Feb, Apr, June***, ***ECCV 2024***,  ***Neurips 2024***, ***CVPR 2025***, ***ARR 2025***, ***ICML 2025***, ***Neurips 2025***
 - Teaching Assistant: [IFT 6765 - Links between Computer Vision and Language](https://sites.google.com/mila.quebec/ift6765-h2024/course-description)
