@@ -15,18 +15,28 @@ Greetings, I am Le Zhang, a Ph.D student at the [Mila - Quebec AI Institute](htt
 
 My research primarily centers around the domains of computer vision and multimodal learning. 
 
-# News and Updates
+# News and Updates 🎉
 
 ------
-- [Mar 2025] One paper SAIL got accepted at ***CVPR 2024 Highlight*** [*project*](https://lezhang7.github.io/sail.github.io/)
-- [Sep 2024] Two papers got accepted at ***NeurIPS 2024***, one on MSA augmentation for protein structure prediction with language models and one on visual minimal-change understanding for vision-language models.
-- [Sep 2024] One paper on Information Retrieval with Large Language Model has been accepted to ***EMNLP 2024 findings***
-- [May 2024] One paper on Graph Convolution and Contrastive Learning has been accepted to ***KDD 2024***
-- [Feb 2024] One paper on vision-language compositional understanding has been accepted to ***CVPR 2024***
-- One paper for zero-shot multimodal question answering got accepted into ***EMNLP 2023 findings***
-- Start graduate study at Mila!
-- Interned at Shanghai AI Lab from 2022/02-2022/09
-- Two paper got accepted at ***NAACL 2022***
+- [Mar 2025] 🌟 One paper SAIL got accepted at ***CVPR 2024 Highlight*** [*project*](https://lezhang7.github.io/sail.github.io/)
+
+- [Sep 2024] 🎯 Two papers accepted at ***NeurIPS 2024***:
+  - MSA augmentation for protein structure prediction with language models
+  - Visual minimal-change understanding for vision-language models
+
+- [Sep 2024] 📚 One paper on Information Retrieval with Large Language Models accepted to ***EMNLP 2024 Findings***
+
+- [May 2024] 🔍 One paper on Graph Convolution and Contrastive Learning accepted to ***KDD 2024***
+
+- [Feb 2024] 🖼️ One paper on vision-language compositional understanding accepted to ***CVPR 2024***
+
+- [Dec 2023] 💡 One paper on zero-shot multimodal question answering accepted to ***EMNLP 2023 Findings***
+
+- [Sep 2023] 🎓 Started graduate study at Mila!
+
+- [Feb-Sep 2022] 💼 Research Intern at Shanghai AI Lab
+
+- [May 2022] 📝 Two papers accepted at ***NAACL 2022***
 
 # Publications
 
