@@ -19,28 +19,18 @@ My research primarily centers around the domains of computer vision and multimod
 
 <div class="news-scroll-section"><!-- scrollable news section start -->
 
-------
-
-- [May 2025] 🎯 Honored to be selected as Outstanding Reviewer for CVPR 2025
-- [Mar 2025] 🌟 One paper SAIL got accepted at ***CVPR 2025 Highlight*** [*project*](https://lezhang7.github.io/sail.github.io/)
-
-- [Sep 2024] 🎯 Two papers accepted at ***NeurIPS 2024***:
+<div class="news-item">[May 2025] 🎯 Honored to be selected as Outstanding Reviewer for CVPR 2025</div>
+<div class="news-item">[Mar 2025] 🌟 One paper SAIL got accepted at ***CVPR 2025 Highlight*** [*project*](https://lezhang7.github.io/sail.github.io/)</div>
+<div class="news-item">[Sep 2024] 🎯 Two papers accepted at ***NeurIPS 2024***:
   - MSA augmentation for protein structure prediction with language models
-  - Visual minimal-change understanding for vision-language models
-
-- [Sep 2024] 📚 One paper on Information Retrieval with Large Language Models accepted to ***EMNLP 2024 Findings***
-
-- [May 2024] 🔍 One paper on Graph Convolution and Contrastive Learning accepted to ***KDD 2024***
-
-- [Feb 2024] 🖼️ One paper on vision-language compositional understanding accepted to ***CVPR 2024***
-
-- [Dec 2023] 💡 One paper on zero-shot multimodal question answering accepted to ***EMNLP 2023 Findings***
-
-- [Sep 2023] 🎓 Started graduate study at Mila!
-
-- [Feb-Sep 2022] 💼 Research Intern at Shanghai AI Lab
-
-- [May 2022] 📝 Two papers accepted at ***NAACL 2022***
+  - Visual minimal-change understanding for vision-language models</div>
+<div class="news-item">[Sep 2024] 📚 One paper on Information Retrieval with Large Language Models accepted to ***EMNLP 2024 Findings***</div>
+<div class="news-item">[May 2024] 🔍 One paper on Graph Convolution and Contrastive Learning accepted to ***KDD 2024***</div>
+<div class="news-item">[Feb 2024] 🖼️ One paper on vision-language compositional understanding accepted to ***CVPR 2024***</div>
+<div class="news-item">[Dec 2023] 💡 One paper on zero-shot multimodal question answering accepted to ***EMNLP 2023 Findings***</div>
+<div class="news-item">[Sep 2023] 🎓 Started graduate study at Mila!</div>
+<div class="news-item">[Feb-Sep 2022] 💼 Research Intern at Shanghai AI Lab</div>
+<div class="news-item">[May 2022] 📝 Two papers accepted at ***NAACL 2022***</div>
 
 </div><!-- scrollable news section end -->
 
@@ -49,7 +39,7 @@ My research primarily centers around the domains of computer vision and multimod
 ------
 - **Assessing and Learning Alignment of Unimodal Vision and Language Models (SAIL)**  
   **Le Zhang**, <span style="color:gray;">Qian Yang, Aishwarya Agrawal</span>  
-  *CVPR 2025 Highlight* [[*project*](https://lezhang7.github.io/sail.github.io/)]
+  *CVPR 2025 <span style="color:#FF4500">Highlight</span>* [[*project*](https://lezhang7.github.io/sail.github.io/)]
 
 - **Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation**  
   **Le Zhang**, <span style="color:gray;">Jiayang Chen, Tao Shen, Yu Li, Siqi Sun.</span>   
