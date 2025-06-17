@@ -47,9 +47,10 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: bundle _2.4.22_ exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: bundle _2.4.22_ exec jekyll build --baseurl ""
         env:
           JEKYLL_ENV: production
+          PAGES_REPO_NWO: lezhang7/lezhang7.github.io
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
