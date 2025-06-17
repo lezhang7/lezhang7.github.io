@@ -17,6 +17,8 @@ My research primarily centers around the domains of computer vision and multimod
 
 # News and Updates 🎉
 
+<div class="news-scroll-section"><!-- scrollable news section start -->
+
 ------
 
 - [May 2025] 🎯 Honored to be selected as Outstanding Reviewer for CVPR 2025
@@ -39,6 +41,8 @@ My research primarily centers around the domains of computer vision and multimod
 - [Feb-Sep 2022] 💼 Research Intern at Shanghai AI Lab
 
 - [May 2022] 📝 Two papers accepted at ***NAACL 2022***
+
+</div><!-- scrollable news section end -->
 
 # Publications
 
