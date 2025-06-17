@@ -19,18 +19,18 @@ My research primarily centers around the domains of computer vision and multimod
 
 <div class="news-scroll-section"><!-- scrollable news section start -->
 
-<div class="news-item">[May 2025] 🎯 Honored to be selected as Outstanding Reviewer for CVPR 2025</div>
-<div class="news-item">[Mar 2025] 🌟 One paper SAIL got accepted at ***CVPR 2025 Highlight*** [*project*](https://lezhang7.github.io/sail.github.io/)</div>
-<div class="news-item">[Sep 2024] 🎯 Two papers accepted at ***NeurIPS 2024***:
+<div class="news-item">[May 2025] Honored to be selected as Outstanding Reviewer for CVPR 2025</div>
+<div class="news-item">[Mar 2025] One paper SAIL got accepted at <span style="color:#FF4500;font-weight:bold">CVPR 2025 Highlight</span> [project](https://lezhang7.github.io/sail.github.io/)</div>
+<div class="news-item">[Sep 2024] Two papers accepted at <span style="font-weight:bold">NeurIPS 2024</span>:
   - MSA augmentation for protein structure prediction with language models
   - Visual minimal-change understanding for vision-language models</div>
-<div class="news-item">[Sep 2024] 📚 One paper on Information Retrieval with Large Language Models accepted to ***EMNLP 2024 Findings***</div>
-<div class="news-item">[May 2024] 🔍 One paper on Graph Convolution and Contrastive Learning accepted to ***KDD 2024***</div>
-<div class="news-item">[Feb 2024] 🖼️ One paper on vision-language compositional understanding accepted to ***CVPR 2024***</div>
-<div class="news-item">[Dec 2023] 💡 One paper on zero-shot multimodal question answering accepted to ***EMNLP 2023 Findings***</div>
-<div class="news-item">[Sep 2023] 🎓 Started graduate study at Mila!</div>
-<div class="news-item">[Feb-Sep 2022] 💼 Research Intern at Shanghai AI Lab</div>
-<div class="news-item">[May 2022] 📝 Two papers accepted at ***NAACL 2022***</div>
+<div class="news-item">[Sep 2024] One paper on Information Retrieval with Large Language Models accepted to <span style="font-weight:bold">EMNLP 2024 Findings</span></div>
+<div class="news-item">[May 2024] One paper on Graph Convolution and Contrastive Learning accepted to <span style="font-weight:bold">KDD 2024</span></div>
+<div class="news-item">[Feb 2024] One paper on vision-language compositional understanding accepted to <span style="font-weight:bold">CVPR 2024</span></div>
+<div class="news-item">[Dec 2023] One paper on zero-shot multimodal question answering accepted to <span style="font-weight:bold">EMNLP 2023 Findings</span></div>
+<div class="news-item">[Sep 2023] Started graduate study at Mila!</div>
+<div class="news-item">[Feb-Sep 2022] Research Intern at Shanghai AI Lab</div>
+<div class="news-item">[May 2022] Two papers accepted at <span style="font-weight:bold">NAACL 2022</span></div>
 
 </div><!-- scrollable news section end -->
 
