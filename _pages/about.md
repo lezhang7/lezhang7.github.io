@@ -18,7 +18,9 @@ My research primarily centers around the domains of computer vision and multimod
 # News and Updates 🎉
 
 ------
-- [Mar 2025] 🌟 One paper SAIL got accepted at ***CVPR 2024 Highlight*** [*project*](https://lezhang7.github.io/sail.github.io/)
+
+- [May 2025] 🎯 Honored to be selected as Outstanding Reviewer for CVPR 2025
+- [Mar 2025] 🌟 One paper SAIL got accepted at ***CVPR 2025 Highlight*** [*project*](https://lezhang7.github.io/sail.github.io/)
 
 - [Sep 2024] 🎯 Two papers accepted at ***NeurIPS 2024***:
   - MSA augmentation for protein structure prediction with language models
@@ -43,7 +45,7 @@ My research primarily centers around the domains of computer vision and multimod
 ------
 - **Assessing and Learning Alignment of Unimodal Vision and Language Models (SAIL)**  
   **Le Zhang**, <span style="color:gray;">Qian Yang, Aishwarya Agrawal</span>  
-  *CVPR 2024 Highlight* [[*project*](https://lezhang7.github.io/sail.github.io/)]
+  *CVPR 2025 Highlight* [[*project*](https://lezhang7.github.io/sail.github.io/)]
 
 - **Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation**  
   **Le Zhang**, <span style="color:gray;">Jiayang Chen, Tao Shen, Yu Li, Siqi Sun.</span>   
