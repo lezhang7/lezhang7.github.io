@@ -58,7 +58,7 @@ My research primarily centers around the domains of computer vision and multimod
  **Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation**  
   ![Protein Structure Image](images/MSA.png)
   <span style="font-weight:500;color:#2c3e50">**Le Zhang**</span>, <span style="color:#7f8c8d;font-style:italic">Jiayang Chen, Tao Shen, Yu Li, Siqi Sun.</span>   
-  <span style="font-weight:600;color:#e74c3c">*NeurIPS 2024*</span> [![arXiv](https://img.shields.io/badge/arXiv-2306.01824-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2306.01824) [![GitHub stars](https://img.shields.io/github/stars/lezhang7/MSA-Augmentor?style=social&label=Star)](https://github.com/lezhang7/MSA-Augmentor)]  
+  <span style="font-weight:600;color:#e74c3c">*NeurIPS 2024*</span> [![arXiv](https://img.shields.io/badge/arXiv-2306.01824-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2306.01824) [![GitHub stars](https://img.shields.io/github/stars/lezhang7/MSA-Augmentor?style=social&label=Star)](https://github.com/lezhang7/MSA-Augmentor)  
   
 
  **VisMin: Visual Minimal-Change Understanding**  
