@@ -23,12 +23,7 @@ My research primarily centers around the domains of computer vision and multimod
 
 <div class="news-item" style="font-family: 'Roboto', sans-serif;">[Mar 2025] One paper SAIL got accepted at <span style="color:#FF4500;font-weight:600">CVPR 2025 Highlight</span> <a href="https://lezhang7.github.io/sail.github.io/" style="color:#0366d6;text-decoration:none;font-weight:500">[project]</a></div>
 
-<div class="news-item" style="font-family: 'Roboto', sans-serif;">[Sep 2024] Two papers accepted at <span style="font-weight:600">NeurIPS 2024</span>:
-  <ul style="margin-top:0.3em;margin-bottom:0.3em">
-    <li>MSA augmentation for protein structure prediction with language models</li>
-    <li>Visual minimal-change understanding for vision-language models</li>
-  </ul>
-</div>
+<div class="news-item" style="font-family: 'Roboto', sans-serif;">[Sep 2024] Two papers accepted at <span style="font-weight:600">NeurIPS 2024</span></div>
 
 <div class="news-item" style="font-family: 'Roboto', sans-serif;">[Sep 2024] One paper on Information Retrieval with Large Language Models accepted to <span style="font-weight:600">EMNLP 2024 Findings</span></div>
 
