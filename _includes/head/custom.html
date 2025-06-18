@@ -122,16 +122,16 @@
 
 /* Glassmorphism for publication items */
 .page__content #publications ul li {
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 12px;
-  padding: 2em;
-  margin-bottom: 2em;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 16px;
+  padding: 2.5em;
+  margin-bottom: 2.5em;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
   position: relative;
+  isolation: isolate;
 }
 
 .page__content #publications ul li:before {
@@ -140,15 +140,10 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 3px;
+  height: 4px;
   background: linear-gradient(90deg, #3498db, #e74c3c);
-  border-radius: 12px 12px 0 0;
-}
-
-.page__content #publications ul li:hover {
-  background: rgba(255, 255, 255, 0.15);
-  transform: translateY(-3px);
-  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.15);
+  border-radius: 16px 16px 0 0;
+  z-index: 1;
 }
 
 /* Publications section spacing */
