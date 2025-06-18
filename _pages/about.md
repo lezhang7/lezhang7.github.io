@@ -19,18 +19,30 @@ My research primarily centers around the domains of computer vision and multimod
 
 <div class="news-scroll-section"><!-- scrollable news section start -->
 
-<div class="news-item">[May 2025] Honored to be selected as  <span style="color:#FF4500;font-weight:bold"> Outstanding Reviewer for CVPR 2025</span> </div>
-<div class="news-item">[Mar 2025] One paper SAIL got accepted at <span style="color:#FF4500;font-weight:bold">CVPR 2025 Highlight</span> [project](https://lezhang7.github.io/sail.github.io/)</div>
-<div class="news-item">[Sep 2024] Two papers accepted at <span style="font-weight:bold">NeurIPS 2024</span>:
-  - MSA augmentation for protein structure prediction with language models
-  - Visual minimal-change understanding for vision-language models</div>
-<div class="news-item">[Sep 2024] One paper on Information Retrieval with Large Language Models accepted to <span style="font-weight:bold">EMNLP 2024 Findings</span></div>
-<div class="news-item">[May 2024] One paper on Graph Convolution and Contrastive Learning accepted to <span style="font-weight:bold">KDD 2024</span></div>
-<div class="news-item">[Feb 2024] One paper on vision-language compositional understanding accepted to <span style="font-weight:bold">CVPR 2024</span></div>
-<div class="news-item">[Dec 2023] One paper on zero-shot multimodal question answering accepted to <span style="font-weight:bold">EMNLP 2023 Findings</span></div>
-<div class="news-item">[Sep 2023] Started graduate study at Mila!</div>
-<div class="news-item">[Feb-Sep 2022] Research Intern at Shanghai AI Lab</div>
-<div class="news-item">[May 2022] Two papers accepted at <span style="font-weight:bold">NAACL 2022</span></div>
+<div class="news-item" style="font-family: 'Roboto', sans-serif;">[May 2025] Honored to be selected as <span style="color:#FF4500;font-weight:600">Outstanding Reviewer for CVPR 2025</span></div>
+
+<div class="news-item" style="font-family: 'Roboto', sans-serif;">[Mar 2025] One paper SAIL got accepted at <span style="color:#FF4500;font-weight:600">CVPR 2025 Highlight</span> <a href="https://lezhang7.github.io/sail.github.io/" style="color:#0366d6;text-decoration:none;font-weight:500">[project]</a></div>
+
+<div class="news-item" style="font-family: 'Roboto', sans-serif;">[Sep 2024] Two papers accepted at <span style="font-weight:600">NeurIPS 2024</span>:
+  <ul style="margin-top:0.3em;margin-bottom:0.3em">
+    <li>MSA augmentation for protein structure prediction with language models</li>
+    <li>Visual minimal-change understanding for vision-language models</li>
+  </ul>
+</div>
+
+<div class="news-item" style="font-family: 'Roboto', sans-serif;">[Sep 2024] One paper on Information Retrieval with Large Language Models accepted to <span style="font-weight:600">EMNLP 2024 Findings</span></div>
+
+<div class="news-item" style="font-family: 'Roboto', sans-serif;">[May 2024] One paper on Graph Convolution and Contrastive Learning accepted to <span style="font-weight:600">KDD 2024</span></div>
+
+<div class="news-item" style="font-family: 'Roboto', sans-serif;">[Feb 2024] One paper on vision-language compositional understanding accepted to <span style="font-weight:600">CVPR 2024</span></div>
+
+<div class="news-item" style="font-family: 'Roboto', sans-serif;">[Dec 2023] One paper on zero-shot multimodal question answering accepted to <span style="font-weight:600">EMNLP 2023 Findings</span></div>
+
+<div class="news-item" style="font-family: 'Roboto', sans-serif;">[Sep 2023] Started graduate study at Mila!</div>
+
+<div class="news-item" style="font-family: 'Roboto', sans-serif;">[Feb-Sep 2022] Research Intern at Shanghai AI Lab</div>
+
+<div class="news-item" style="font-family: 'Roboto', sans-serif;">[May 2022] Two papers accepted at <span style="font-weight:600">NAACL 2022</span></div>
 
 </div><!-- scrollable news section end -->
 
@@ -38,9 +50,10 @@ My research primarily centers around the domains of computer vision and multimod
 
 ------
 - **Assessing and Learning Alignment of Unimodal Vision and Language Models (SAIL)**  
+  ![SAIL Image](images/SAIL.png)
   **Le Zhang**, <span style="color:gray;">Qian Yang, Aishwarya Agrawal</span>  
   *CVPR 2025 <span style="color:#FF4500">Highlight</span>* [[*project*](https://lezhang7.github.io/sail.github.io/)]  
-  ![SAIL Image](https://via.placeholder.com/150?text=SAIL)
+  
 
 - **Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation**  
   **Le Zhang**, <span style="color:gray;">Jiayang Chen, Tao Shen, Yu Li, Siqi Sun.</span>   
