@@ -120,30 +120,38 @@
   display: inline-block;
 }
 
-/* Glassmorphism for publication items */
-.page__content #publications ul li {
-  background: rgba(255, 255, 255, 0.15);
-  backdrop-filter: blur(15px);
-  -webkit-backdrop-filter: blur(15px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  border-radius: 16px;
-  padding: 2.5em;
-  margin-bottom: 2.5em;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
-  position: relative;
-  isolation: isolate;
+/* Force glassmorphism for ALL publication items */
+.page__content #publications ul li,
+.page__content #publications li,
+.page__content #publications > ul > li,
+.page__content #publications ul > li {
+  background: rgba(255, 255, 255, 0.15) !important;
+  backdrop-filter: blur(15px) !important;
+  -webkit-backdrop-filter: blur(15px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  border-radius: 16px !important;
+  padding: 2.5em !important;
+  margin-bottom: 2.5em !important;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15) !important;
+  position: relative !important;
+  isolation: isolate !important;
+  display: block !important;
+  list-style: none !important;
 }
 
-.page__content #publications ul li:before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 4px;
-  background: linear-gradient(90deg, #3498db, #e74c3c);
-  border-radius: 16px 16px 0 0;
-  z-index: 1;
+.page__content #publications ul li:before,
+.page__content #publications li:before,
+.page__content #publications > ul > li:before,
+.page__content #publications ul > li:before {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  height: 4px !important;
+  background: linear-gradient(90deg, #3498db, #e74c3c) !important;
+  border-radius: 16px 16px 0 0 !important;
+  z-index: 1 !important;
 }
 
 /* Publications section spacing */
@@ -152,9 +160,9 @@
 }
 
 .page__content #publications ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
 </style>
 
