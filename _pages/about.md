@@ -19,7 +19,7 @@ My research primarily centers around the domains of computer vision and multimod
 
 <div class="news-scroll-section"><!-- scrollable news section start -->
 
-<div class="news-item">[May 2025] Honored to be selected as Outstanding Reviewer for CVPR 2025</div>
+<div class="news-item">[May 2025] Honored to be selected as  <span style="color:#FF4500;font-weight:bold"> Outstanding Reviewer for CVPR 2025</span> </div>
 <div class="news-item">[Mar 2025] One paper SAIL got accepted at <span style="color:#FF4500;font-weight:bold">CVPR 2025 Highlight</span> [project](https://lezhang7.github.io/sail.github.io/)</div>
 <div class="news-item">[Sep 2024] Two papers accepted at <span style="font-weight:bold">NeurIPS 2024</span>:
   - MSA augmentation for protein structure prediction with language models
@@ -44,7 +44,7 @@ My research primarily centers around the domains of computer vision and multimod
 
 - **Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation**  
   **Le Zhang**, <span style="color:gray;">Jiayang Chen, Tao Shen, Yu Li, Siqi Sun.</span>   
-  *NeurIPS 2024* [[*arxiv*](https://arxiv.org/abs/2306.01824) | [*code*](https://github.com/lezhang7/MSA-Augmentor)]  
+  *NeurIPS 2024* [[*arxiv*](https://arxiv.org/abs/2306.01824) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/MSA-Augmentor?style=social&label=Star)](https://github.com/lezhang7/MSA-Augmentor)]  
   ![Protein Structure Image](https://via.placeholder.com/150?text=Protein)
 
 - **VisMin: Visual Minimal-Change Understanding**  
@@ -54,7 +54,7 @@ My research primarily centers around the domains of computer vision and multimod
 
 - **Exploring the Best Practices of Query Expansion with Large Language Models**  
   **Le Zhang**, <span style="color:gray;">Qian Yang, Yihong Wu.</span>   
-  *EMNLP 2024 findings* [[*arxiv*](https://arxiv.org/abs/2401.06311) | [*code*](https://github.com/lezhang7/Retrieval_MuGI)]  
+  *EMNLP 2024 findings* [[*arxiv*](https://arxiv.org/abs/2401.06311) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/Retrieval_MuGI?style=social&label=Star)](https://github.com/lezhang7/Retrieval_MuGI)]  
   ![Query Expansion Image](https://via.placeholder.com/150?text=Query)
 
 - **Unifying Graph Convolution and Contrastive Learning in Collaborative Filtering**  
@@ -64,12 +64,12 @@ My research primarily centers around the domains of computer vision and multimod
 
 - **Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Compositional Understanding**  
   **Le Zhang**, <span style="color:gray;">Rabiul Awal, Aishwarya Agrawal</span>  
-  *CVPR 2024* [[*arXiv*](https://arxiv.org/abs/2306.08832) | [*code*](https://github.com/lezhang7/Enhance-FineGrained)]  
+  *CVPR 2024* [[*arXiv*](https://arxiv.org/abs/2306.08832) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/Enhance-FineGrained?style=social&label=Star)](https://github.com/lezhang7/Enhance-FineGrained)]  
   ![Contrasting Image](https://via.placeholder.com/150?text=Contrast)
 
 - **MoqaGPT: Zero-Shot Multi-modal Open-domain Question Answering with Large Language Model**  
   **Le Zhang**, <span style="color:gray;">Yihong Wu, Fengran Mo, Jian-Yun Nie, Aishwarya Agrawal.</span>  
-   *EMNLP 2023 Findings* [[*arxiv*](https://arxiv.org/abs/2310.13265) | [*code*](https://github.com/lezhang7/MOQAGPT)]  
+   *EMNLP 2023 Findings* [[*arxiv*](https://arxiv.org/abs/2310.13265) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/MOQAGPT?style=social&label=Star)](https://github.com/lezhang7/MOQAGPT)]  
   ![MoqaGPT Image](https://via.placeholder.com/150?text=MoqaGPT)
 
 - **Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering**  
@@ -79,12 +79,12 @@ My research primarily centers around the domains of computer vision and multimod
 
 - SUBS: Subtree Substitution for Compositional Semantic Parsing  
   <span style="color:gray;">Jingfeng Yang\*,</span> **Le Zhang**\*, <span style="color:gray;">Diyi Yang.</span>   
-  *NAACL 2022* [[*arxiv*](https://arxiv.org/abs/2205.01538) | [*code*](https://github.com/SALT-NLP/SUBS)]  
+  *NAACL 2022* [[*arxiv*](https://arxiv.org/abs/2205.01538) | ![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/SUBS?style=social&label=Star)](https://github.com/SALT-NLP/SUBS)]  
   ![SUBS Image](https://via.placeholder.com/150?text=SUBS)
 
 - **TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding**  
   **Le Zhang**, <span style="color:gray;">Zichao Yang, Diyi Yang.</span>   
-  *NAACL 2022* [[*arxiv*](https://arxiv.org/abs/2205.06153) | [*code*](https://github.com/lezhang7/TreeMix)]  
+  *NAACL 2022* [[*arxiv*](https://arxiv.org/abs/2205.06153) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/TreeMix?style=social&label=Star)](https://github.com/lezhang7/TreeMix)]  
   ![TreeMix Image](https://via.placeholder.com/150?text=TreeMix)
 
 # Services
