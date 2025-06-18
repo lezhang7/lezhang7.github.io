@@ -77,7 +77,7 @@
 /* Glassmorphism for publication images */
 .page__content img {
   border-radius: 4px;
-  transition: all 0.3s ease;
+  transition: none;
 }
 
 .page__content img:hover {
@@ -87,18 +87,21 @@
 
 /* Glassmorphism for publication items */
 .page__content ul li {
-  background: transparent;
-  border: none;
-  border-radius: 0;
-  padding: 0.5em 0;
-  margin-bottom: 0.5em;
-  transition: none;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  padding: 1.5em;
+  margin-bottom: 1.5em;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
 }
 
 .page__content ul li:hover {
-  background: transparent;
-  transform: none;
-  box-shadow: none;
+  background: rgba(255, 255, 255, 0.15);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
 }
 </style>
 
