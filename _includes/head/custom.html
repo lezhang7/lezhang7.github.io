@@ -76,32 +76,29 @@
 
 /* Glassmorphism for publication images */
 .page__content img {
-  border-radius: 8px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
   transition: all 0.3s ease;
 }
 
 .page__content img:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  transform: none;
+  box-shadow: none;
 }
 
 /* Glassmorphism for publication items */
 .page__content ul li {
-  background: rgba(255, 255, 255, 0.05);
-  backdrop-filter: blur(5px);
-  -webkit-backdrop-filter: blur(5px);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  border-radius: 8px;
-  padding: 1em;
-  margin-bottom: 1em;
-  transition: all 0.3s ease;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0.5em 0;
+  margin-bottom: 0.5em;
+  transition: none;
 }
 
 .page__content ul li:hover {
-  background: rgba(255, 255, 255, 0.1);
-  transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  background: transparent;
+  transform: none;
+  box-shadow: none;
 }
 </style>
 
