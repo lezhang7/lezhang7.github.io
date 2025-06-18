@@ -78,6 +78,11 @@
 .page__content #publications img {
   border-radius: 4px;
   transition: none;
+  width: 180px;
+  height: 120px;
+  object-fit: cover;
+  margin: 0.5em 0;
+  display: block;
 }
 
 .page__content #publications img:hover {
@@ -87,10 +92,32 @@
 
 /* Publication titles styling */
 .page__content #publications strong {
-  font-size: 1.3em;
+  font-size: 1.4em;
   font-weight: 700;
   color: #2c3e50;
   line-height: 1.4;
+  display: block;
+  margin-bottom: 0.8em;
+}
+
+/* Publication authors styling */
+.page__content #publications span[style*="font-weight:500"] {
+  font-size: 1.1em;
+  margin-bottom: 0.5em;
+  display: block;
+}
+
+/* Publication conference info styling */
+.page__content #publications span[style*="font-weight:600"] {
+  font-size: 1.05em;
+  margin-bottom: 0.8em;
+  display: block;
+}
+
+/* Publication links styling */
+.page__content #publications a {
+  margin-right: 0.5em;
+  display: inline-block;
 }
 
 /* Glassmorphism for publication items */
@@ -100,16 +127,39 @@
   -webkit-backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 12px;
-  padding: 1.5em;
-  margin-bottom: 1.5em;
+  padding: 2em;
+  margin-bottom: 2em;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;
+  position: relative;
+}
+
+.page__content #publications ul li:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #3498db, #e74c3c);
+  border-radius: 12px 12px 0 0;
 }
 
 .page__content #publications ul li:hover {
   background: rgba(255, 255, 255, 0.15);
-  transform: translateY(-2px);
-  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+  transform: translateY(-3px);
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.15);
+}
+
+/* Publications section spacing */
+.page__content #publications {
+  margin-top: 2em;
+}
+
+.page__content #publications ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 </style>
 
