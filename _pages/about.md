@@ -51,54 +51,62 @@ My research primarily centers around the domains of computer vision and multimod
 ------
 - **Assessing and Learning Alignment of Unimodal Vision and Language Models (SAIL)**  
   ![SAIL Image](images/SAIL.png)
-  **Le Zhang**, <span style="color:gray;">Qian Yang, Aishwarya Agrawal</span>  
-  *CVPR 2025 <span style="color:#FF4500">Highlight</span>* [[*project*](https://lezhang7.github.io/sail.github.io/)]  
+  <span style="font-weight:500;color:#2c3e50">**Le Zhang**</span>, <span style="color:#7f8c8d;font-style:italic">Qian Yang, Aishwarya Agrawal</span>  
+  <span style="font-weight:600;color:#e74c3c">*CVPR 2025 <span style="color:#FF4500">Highlight</span>*</span> [[*project*](https://lezhang7.github.io/sail.github.io/)]  
   
 
 - **Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation**  
-  **Le Zhang**, <span style="color:gray;">Jiayang Chen, Tao Shen, Yu Li, Siqi Sun.</span>   
-  *NeurIPS 2024* [[*arxiv*](https://arxiv.org/abs/2306.01824) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/MSA-Augmentor?style=social&label=Star)](https://github.com/lezhang7/MSA-Augmentor)]  
-  ![Protein Structure Image](https://via.placeholder.com/150?text=Protein)
+  ![Protein Structure Image](images/MSA.png)
+  <span style="font-weight:500;color:#2c3e50">**Le Zhang**</span>, <span style="color:#7f8c8d;font-style:italic">Jiayang Chen, Tao Shen, Yu Li, Siqi Sun.</span>   
+  <span style="font-weight:600;color:#e74c3c">*NeurIPS 2024*</span> [[📄](https://arxiv.org/abs/2306.01824) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/MSA-Augmentor?style=social&label=Star)](https://github.com/lezhang7/MSA-Augmentor)]  
+  
 
 - **VisMin: Visual Minimal-Change Understanding**  
-  <span style="color:gray;">Rabiul Awal\*, Saba Ahmadi\*,</span> **Le Zhang**\*, <span style="color:gray;">Aishwarya Agrawal</span>  
-  *NeurIPS 2024* [*project*](https://rabiul.me/vismin/)  
-  ![VisMin Image](https://via.placeholder.com/150?text=VisMin)
+  ![VisMin Image](images/vismin.png)
+  <span style="color:#7f8c8d;font-style:italic">Rabiul Awal\*, Saba Ahmadi\*,</span> <span style="font-weight:500;color:#2c3e50">**Le Zhang**</span>\*, <span style="color:#7f8c8d;font-style:italic">Aishwarya Agrawal</span>  
+  <span style="font-weight:600;color:#e74c3c">*NeurIPS 2024*</span> [*project*](https://rabiul.me/vismin/)  
+  
 
 - **Exploring the Best Practices of Query Expansion with Large Language Models**  
-  **Le Zhang**, <span style="color:gray;">Qian Yang, Yihong Wu.</span>   
-  *EMNLP 2024 findings* [[*arxiv*](https://arxiv.org/abs/2401.06311) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/Retrieval_MuGI?style=social&label=Star)](https://github.com/lezhang7/Retrieval_MuGI)]  
-  ![Query Expansion Image](https://via.placeholder.com/150?text=Query)
+  ![Query Expansion Image](images/mugi.png)  
+  <span style="font-weight:500;color:#2c3e50">**Le Zhang**</span>, <span style="color:#7f8c8d;font-style:italic">Qian Yang, Yihong Wu.</span>   
+  <span style="font-weight:600;color:#e74c3c">*EMNLP 2024 findings*</span> [[📄](https://arxiv.org/abs/2401.06311) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/Retrieval_MuGI?style=social&label=Star)](https://github.com/lezhang7/Retrieval_MuGI)]  
+  
 
 - **Unifying Graph Convolution and Contrastive Learning in Collaborative Filtering**  
-  <span style="color:gray;">Yihong Wu</span>, **Le Zhang**, <span style="color:gray;">Fengran Mo, Tianyu Zhu, Weizhi Ma, Jian-Yun Nie</span>  
-  *KDD 2024*  
-  ![Graph Convolution Image](https://via.placeholder.com/150?text=Graph)
+  <span style="color:#7f8c8d;font-style:italic">Yihong Wu</span>, <span style="font-weight:500;color:#2c3e50">**Le Zhang**</span>, <span style="color:#7f8c8d;font-style:italic">Fengran Mo, Tianyu Zhu, Weizhi Ma, Jian-Yun Nie</span>  
+  <span style="font-weight:600;color:#e74c3c">*KDD 2024*</span>  
+  
 
 - **Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Compositional Understanding**  
-  **Le Zhang**, <span style="color:gray;">Rabiul Awal, Aishwarya Agrawal</span>  
-  *CVPR 2024* [[*arXiv*](https://arxiv.org/abs/2306.08832) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/Enhance-FineGrained?style=social&label=Star)](https://github.com/lezhang7/Enhance-FineGrained)]  
-  ![Contrasting Image](https://via.placeholder.com/150?text=Contrast)
+  ![Contrasting Image](images/compositional.png)
+  <span style="font-weight:500;color:#2c3e50">**Le Zhang**</span>, <span style="color:#7f8c8d;font-style:italic">Rabiul Awal, Aishwarya Agrawal</span>  
+  <span style="font-weight:600;color:#e74c3c">*CVPR 2024*</span> [[📄](https://arxiv.org/abs/2306.08832) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/Enhance-FineGrained?style=social&label=Star)](https://github.com/lezhang7/Enhance-FineGrained)]  
+  
 
 - **MoqaGPT: Zero-Shot Multi-modal Open-domain Question Answering with Large Language Model**  
-  **Le Zhang**, <span style="color:gray;">Yihong Wu, Fengran Mo, Jian-Yun Nie, Aishwarya Agrawal.</span>  
-   *EMNLP 2023 Findings* [[*arxiv*](https://arxiv.org/abs/2310.13265) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/MOQAGPT?style=social&label=Star)](https://github.com/lezhang7/MOQAGPT)]  
-  ![MoqaGPT Image](https://via.placeholder.com/150?text=MoqaGPT)
+  ![MoqaGPT Image](images/moqagpt.png)
+  <span style="font-weight:500;color:#2c3e50">**Le Zhang**</span>, <span style="color:#7f8c8d;font-style:italic">Yihong Wu, Fengran Mo, Jian-Yun Nie, Aishwarya Agrawal.</span>  
+   <span style="font-weight:600;color:#e74c3c">*EMNLP 2023 Findings*</span> [[📄](https://arxiv.org/abs/2310.13265) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/MOQAGPT?style=social&label=Star)](https://github.com/lezhang7/MOQAGPT)]  
+  
 
 - **Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering**  
-  <span style="color:gray;">Rabiul Awal,</span> **Le Zhang**, <span style="color:gray;">Aishwarya Agrawal.</span>  
-   *CVPR2024W Oral* [[*arxiv*](https://arxiv.org/abs/2306.09996)]  
-  ![Prompting Image](https://via.placeholder.com/150?text=Prompting)
+  ![Prompting Image](images/prompt.png)
+  <span style="color:#7f8c8d;font-style:italic">Rabiul Awal,</span> <span style="font-weight:500;color:#2c3e50">**Le Zhang**</span>, <span style="color:#7f8c8d;font-style:italic">Aishwarya Agrawal.</span>  
+   <span style="font-weight:600;color:#e74c3c">*CVPR2024W Oral*</span> [[📄](https://arxiv.org/abs/2306.09996)]  
+  
 
 - SUBS: Subtree Substitution for Compositional Semantic Parsing  
-  <span style="color:gray;">Jingfeng Yang\*,</span> **Le Zhang**\*, <span style="color:gray;">Diyi Yang.</span>   
-  *NAACL 2022* [[*arxiv*](https://arxiv.org/abs/2205.01538) | ![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/SUBS?style=social&label=Star)](https://github.com/SALT-NLP/SUBS)]  
-  ![SUBS Image](https://via.placeholder.com/150?text=SUBS)
+  ![SUBS Image](images/SUBS.png)
+  <span style="color:#7f8c8d;font-style:italic">Jingfeng Yang\*,</span> <span style="font-weight:500;color:#2c3e50">**Le Zhang**</span>\*, <span style="color:#7f8c8d;font-style:italic">Diyi Yang.</span>   
+  <span style="font-weight:600;color:#e74c3c">*NAACL 2022*</span> [[📄](https://arxiv.org/abs/2205.01538) | ![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/SUBS?style=social&label=Star)](https://github.com/SALT-NLP/SUBS)]  
+  
 
 - **TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding**  
-  **Le Zhang**, <span style="color:gray;">Zichao Yang, Diyi Yang.</span>   
-  *NAACL 2022* [[*arxiv*](https://arxiv.org/abs/2205.06153) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/TreeMix?style=social&label=Star)](https://github.com/lezhang7/TreeMix)]  
-  ![TreeMix Image](https://via.placeholder.com/150?text=TreeMix)
+  ![TreeMix Image](images/treemix.png)
+  <span style="font-weight:500;color:#2c3e50">**Le Zhang**</span>, <span style="color:#7f8c8d;font-style:italic">Zichao Yang, Diyi Yang.</span>   
+  <span style="font-weight:600;color:#e74c3c">*NAACL 2022*</span> [[📄](https://arxiv.org/abs/2205.06153) | ![GitHub stars](https://img.shields.io/github/stars/lezhang7/TreeMix?style=social&label=Star)](https://github.com/lezhang7/TreeMix)]  
+  
 
 # Services
 
